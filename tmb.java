@@ -11,7 +11,7 @@ class Animals {
 class Dog extends Animals {
 
   // new method in subclass
-  public void display() {
+  public void () {
     System.out.println("My name is " + name);
   }
 }
