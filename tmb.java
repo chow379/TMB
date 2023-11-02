@@ -1,4 +1,4 @@
-class Animal {
+class Animals {
 
   // field and method of the parent class
   String name;
@@ -8,7 +8,7 @@ class Animal {
 }
 
 // inherit from Animal
-class Dog extends Animal {
+class Dog extends Animals {
 
   // new method in subclass
   public void display() {
